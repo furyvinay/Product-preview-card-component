@@ -1,0 +1,43 @@
+.center-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: hsl(30, 38%, 92%);
+}
+
+.card-title {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    letter-spacing: 0.3rem;
+    color: hsl(228, 12%, 48%);
+    font-weight: 600;
+}
+
+.card-text {
+    font-family: 'Fraunces', serif;
+    font-size: 2rem;
+    line-height: 100%;
+}
+
+.card-text1 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    color: hsl(228, 12%, 48%);
+    font-size: 15px;
+}
+
+.first {
+    font-family: 'Fraunces', serif;
+}
+
+.second {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    color: hsl(228, 12%, 48%);
+    letter-spacing: 0.3rem;
+    line-height: 100%;
+    text-align: center;
+
+}
